@@ -1,0 +1,14 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "React tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodejs server.js"
+  },
+  "author": "wowucco",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
